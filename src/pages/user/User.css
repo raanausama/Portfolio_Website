@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.css-10botns-MuiInputBase-input-MuiFilledInput-input{
+  color: white !important ;
+}
+
+.css-7209ej-MuiInputBase-input-MuiFilledInput-input{
+  color: white !important;
+}
+
+
+
+.box_background{
+  background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, ##ffffff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, ##ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

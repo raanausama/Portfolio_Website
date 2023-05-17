@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&display=swap');
+
+body{
+   
+    
+    color: white;
+    line-height: 1.7;
+    
+}
+.background_image{
+    background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+}
+
+.css-tzaznc-MuiPaper-root{
+    box-shadow: none !important;
+}
+
+.css-7t5mlf-MuiPaper-root{
+    box-shadow: none !important;
+    background: none !important;
+}
+
+
+
+.resume-btn {
+    color: #fffdd0;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    margin-top: 40px;
+    overflow: hidden;
+    padding: 16px 20px;
+    position: relative;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.css-15iq1sj-MuiTypography-root{
+    text-decoration-color:#fffdd0 !important;
+}
